@@ -1,16 +1,46 @@
-# otp_verif
 
-A new Flutter project.
+# OTP VERIFICATION
+
+
+Star⭐ the repo if you like what you see😉.
+<p align="center">
+  <a href="https://flutter.dev/"><img alt="Platform" src="https://img.shields.io/badge/platform-Flutter-blue.svg"></a>
+  <a href="https://github.com/Ryanprw/OTP-Verification/"><img alt="Star" src="https://img.shields.io/github/stars/Ryanprw/OTP-Verification"></a>
+</p>
+
+
+## 📸 ScreenShots Design Figma By [Sandeep kumar singh](https://www.figma.com/community/file/1227088693561889982/otp-verification)
+![Dribbble shot HD - 1](https://github.com/user-attachments/assets/28fd137a-c7da-4a8e-8751-bb006eeffaf0)
+
+
 
 ## Getting Started
+To build and run this project:
 
-This project is a starting point for a Flutter application.
+1. Get Flutter [here](https://flutter.dev) if you don't already have it
+2. Clone this repository.
+3. `cd` into the repo folder.
+4. run `flutter run-android` to build the app.
 
-A few resources to get you started if this is your first Flutter project:
+##  Features App
+- Input Number Telp
+- Send OTP
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+##  Logic OTP
+- verifyPhoneNumber
+- timeout
+- verificationCompleted
+- verificationFailed
+- codeSent
+- codeAutoRetrievalTimeout
+- CircularProgressIndicator
+- Disable Button
+- Error Message
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+##  Dependencies
+- Firebase Auth
+- Firebase Core
+- Pin code Fields 
+
+
