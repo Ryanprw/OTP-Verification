@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "224859939118",
+    "project_id": "otpverif-c3940",
+    "storage_bucket": "otpverif-c3940.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224859939118:android:085dcf869f77acc8e09abf",
+        "android_client_info": {
+          "package_name": "com.ryanprw.otp_verif"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ2BsHoI45ey3TxJpvInVzGDeU1UuRtqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
